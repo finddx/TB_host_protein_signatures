@@ -1,1 +1,1 @@
-# TB_host_protein_signatures
+# TB_host_proteins_signatures
